@@ -1,4 +1,4 @@
-version: "18.04"
+version: "20.04"
 services:
   worker:
     build: .
